@@ -262,3 +262,6 @@ __pycache__/
 
 *.o
 crnlib/crunch
+Win32
+lib
+
