@@ -1,0 +1,221 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Common.props(150,5): warning MSB4211: The property "WindowsTargetPlatformVersion" is being set to a value for the first time, but it was already consumed at "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.WindowsSDK.props (29,5)".
+  crn_core.cpp
+  crnlib.cpp
+  crn_arealist.cpp
+  crn_assert.cpp
+  crn_checksum.cpp
+  crn_colorized_console.cpp
+  crn_command_line_params.cpp
+  crn_comp.cpp
+  crn_console.cpp
+  crn_data_stream.cpp
+  crn_dds_comp.cpp
+  crn_decomp.cpp
+  crn_dxt.cpp
+  crn_dxt1.cpp
+crn_dxt1.cpp(147): warning C4456: declaration of 'low_color' hides previous local declaration
+  crn_dxt1.cpp(125): note: see declaration of 'low_color'
+crn_dxt1.cpp(148): warning C4456: declaration of 'high_color' hides previous local declaration
+  crn_dxt1.cpp(126): note: see declaration of 'high_color'
+crn_dxt1.cpp(518): warning C4244: 'initializing': conversion from 'crnlib::uint64' to 'crnlib::uint', possible loss of data
+crn_dxt1.cpp(518): warning C4244: 'initializing': conversion from 'crnlib::uint64' to 'const crnlib::uint', possible loss of data
+crn_dxt1.cpp(519): warning C4244: 'initializing': conversion from 'crnlib::uint64' to 'crnlib::uint', possible loss of data
+crn_dxt1.cpp(519): warning C4244: 'initializing': conversion from 'crnlib::uint64' to 'const crnlib::uint', possible loss of data
+crn_dxt1.cpp(578): warning C4456: declaration of 'h' hides previous local declaration
+  crn_dxt1.cpp(530): note: see declaration of 'h'
+  crn_dxt5a.cpp
+  crn_dxt_endpoint_refiner.cpp
+crn_dxt_endpoint_refiner.cpp(283): warning C4456: declaration of 'lc' hides previous local declaration
+  crn_dxt_endpoint_refiner.cpp(232): note: see declaration of 'lc'
+crn_dxt_endpoint_refiner.cpp(284): warning C4456: declaration of 'hc' hides previous local declaration
+  crn_dxt_endpoint_refiner.cpp(233): note: see declaration of 'hc'
+crn_dxt_endpoint_refiner.cpp(334): warning C4456: declaration of 'c' hides previous local declaration
+  crn_dxt_endpoint_refiner.cpp(222): note: see declaration of 'c'
+  crn_dxt_fast.cpp
+crn_dxt_fast.cpp(447): warning C4456: declaration of 'e' hides previous local declaration
+  crn_dxt_fast.cpp(421): note: see declaration of 'e'
+crn_dxt_fast.cpp(475): warning C4456: declaration of 'a' hides previous local declaration
+  crn_dxt_fast.cpp(428): note: see declaration of 'a'
+crn_dxt_fast.cpp(480): warning C4456: declaration of 'e' hides previous local declaration
+  crn_dxt_fast.cpp(421): note: see declaration of 'e'
+crn_dxt_fast.cpp(587): warning C4456: declaration of 'l' hides previous local declaration
+  crn_dxt_fast.cpp(514): note: see declaration of 'l'
+crn_dxt_fast.cpp(592): warning C4456: declaration of 'c' hides previous local declaration
+  crn_dxt_fast.cpp(579): note: see declaration of 'c'
+crn_dxt_fast.cpp(626): warning C4456: declaration of 'cur_error' hides previous local declaration
+  crn_dxt_fast.cpp(537): note: see declaration of 'cur_error'
+  crn_dxt_hc.cpp
+crn_dxt_hc.cpp(396): warning C4456: declaration of 'a' hides previous local declaration
+  crn_dxt_hc.cpp(382): note: see declaration of 'a'
+crn_dxt_hc.cpp(1131): warning C4456: declaration of 'total_pixels' hides previous local declaration
+  crn_dxt_hc.cpp(1035): note: see declaration of 'total_pixels'
+  crn_dxt_hc_common.cpp
+  crn_dxt_image.cpp
+  crn_dynamic_string.cpp
+  Generating Code...
+  Compiling...
+  crn_etc.cpp
+crn_etc.cpp(583): warning C4456: declaration of 'yd' hides previous local declaration
+  crn_etc.cpp(533): note: see declaration of 'yd'
+crn_etc.cpp(1156): warning C4456: declaration of 'delta' hides previous local declaration
+  crn_etc.cpp(1130): note: see declaration of 'delta'
+  crn_file_utils.cpp
+  crn_find_files.cpp
+  crn_hash.cpp
+  crn_hash_map.cpp
+  crn_huffman_codes.cpp
+crn_huffman_codes.cpp(71): warning C4456: declaration of 'p' hides previous local declaration
+  crn_huffman_codes.cpp(27): note: see declaration of 'p'
+crn_huffman_codes.cpp(72): warning C4456: declaration of 'q' hides previous local declaration
+  crn_huffman_codes.cpp(28): note: see declaration of 'q'
+  crn_image_utils.cpp
+crn_image_utils.cpp(519): warning C4456: declaration of 'c' hides previous local declaration
+  crn_image_utils.cpp(502): note: see declaration of 'c'
+crn_image_utils.cpp(683): warning C4457: declaration of 'dst' hides function parameter
+  crn_image_utils.cpp(546): note: see declaration of 'dst'
+crn_image_utils.cpp(692): warning C4456: declaration of 'c' hides previous local declaration
+  crn_image_utils.cpp(685): note: see declaration of 'c'
+crn_image_utils.cpp(1144): warning C4456: declaration of 'y' hides previous local declaration
+  crn_image_utils.cpp(1057): note: see declaration of 'y'
+crn_image_utils.cpp(1161): warning C4456: declaration of 'y' hides previous local declaration
+  crn_image_utils.cpp(1057): note: see declaration of 'y'
+  crn_ktx_texture.cpp
+  crn_lzma_codec.cpp
+  crn_math.cpp
+  crn_mem.cpp
+  crn_miniz.cpp
+crn_miniz.cpp(1896): warning C4838: conversion from 'const char' to 'mz_uint8' requires a narrowing conversion
+  crn_mipmapped_texture.cpp
+crn_mipmapped_texture.cpp(2255): warning C4456: declaration of 'f' hides previous local declaration
+  crn_mipmapped_texture.cpp(2233): note: see declaration of 'f'
+crn_mipmapped_texture.cpp(2343): warning C4456: declaration of 'f' hides previous local declaration
+  crn_mipmapped_texture.cpp(2312): note: see declaration of 'f'
+crn_mipmapped_texture.cpp(2344): warning C4456: declaration of 'l' hides previous local declaration
+  crn_mipmapped_texture.cpp(2317): note: see declaration of 'l'
+crn_mipmapped_texture.cpp(2980): warning C4456: declaration of 'l' hides previous local declaration
+  crn_mipmapped_texture.cpp(2957): note: see declaration of 'l'
+crn_mipmapped_texture.cpp(3001): warning C4456: declaration of 'f' hides previous local declaration
+  crn_mipmapped_texture.cpp(2989): note: see declaration of 'f'
+crn_mipmapped_texture.cpp(3002): warning C4456: declaration of 'l' hides previous local declaration
+  crn_mipmapped_texture.cpp(2957): note: see declaration of 'l'
+  crn_pixel_format.cpp
+  crn_platform.cpp
+  crn_prefix_coding.cpp
+crn_prefix_coding.cpp(106): warning C4456: declaration of 'ofs' hides previous local declaration
+  crn_prefix_coding.cpp(44): note: see declaration of 'ofs'
+crn_prefix_coding.cpp(292): warning C4456: declaration of 'code' hides previous local declaration
+  crn_prefix_coding.cpp(190): note: see declaration of 'code'
+crn_prefix_coding.cpp(331): warning C4456: declaration of 'i' hides previous local declaration
+  crn_prefix_coding.cpp(319): note: see declaration of 'i'
+  crn_qdxt1.cpp
+crn_qdxt1.cpp(155): warning C4457: declaration of 'n' hides function parameter
+  crn_qdxt1.cpp(58): note: see declaration of 'n'
+crn_qdxt1.cpp(502): warning C4456: declaration of 'i' hides previous local declaration
+  crn_qdxt1.cpp(494): note: see declaration of 'i'
+  crn_qdxt5.cpp
+crn_qdxt5.cpp(152): warning C4457: declaration of 'n' hides function parameter
+  crn_qdxt5.cpp(59): note: see declaration of 'n'
+  crn_rand.cpp
+  crn_resampler.cpp
+  Generating Code...
+  Compiling...
+  crn_resample_filters.cpp
+  crn_rg_etc1.cpp
+crn_rg_etc1.cpp(245): warning C4458: declaration of 'c' hides class member
+  crn_rg_etc1.cpp(78): note: see declaration of 'crnlib::rg_etc1::color_quad_u8::c'
+crn_rg_etc1.cpp(250): warning C4458: declaration of 'c' hides class member
+  crn_rg_etc1.cpp(78): note: see declaration of 'crnlib::rg_etc1::color_quad_u8::c'
+crn_rg_etc1.cpp(1541): warning C4456: declaration of 'yd' hides previous local declaration
+  crn_rg_etc1.cpp(1491): note: see declaration of 'yd'
+crn_rg_etc1.cpp(2074): warning C4456: declaration of 'delta' hides previous local declaration
+  crn_rg_etc1.cpp(2048): note: see declaration of 'delta'
+  crn_ryg_dxt.cpp
+crn_ryg_dxt.cpp(37): warning C4458: declaration of 'v' hides class member
+  crn_ryg_dxt.cpp(35): note: see declaration of 'ryg_dxt::Pixel::v'
+  crn_sparse_bit_array.cpp
+  crn_strutils.cpp
+  crn_symbol_codec.cpp
+  crn_texture_comp.cpp
+  crn_texture_conversion.cpp
+  crn_texture_file_types.cpp
+  crn_threaded_resampler.cpp
+  crn_threading_win32.cpp
+  crn_timer.cpp
+  crn_utils.cpp
+  crn_value.cpp
+  crn_vector.cpp
+  crn_zeng.cpp
+  lzma_7zBuf.cpp
+  lzma_7zBuf2.cpp
+  lzma_7zCrc.cpp
+  lzma_7zFile.cpp
+  Generating Code...
+  Compiling...
+  lzma_7zStream.cpp
+  lzma_Alloc.cpp
+  lzma_Bcj2.cpp
+lzma_Bcj2.cpp(55): warning C4456: declaration of 'i' hides previous local declaration
+  lzma_Bcj2.cpp(49): note: see declaration of 'i'
+lzma_Bcj2.cpp(72): warning C4456: declaration of 'b' hides previous local declaration
+  lzma_Bcj2.cpp(62): note: see declaration of 'b'
+  lzma_Bra.cpp
+  lzma_Bra86.cpp
+  lzma_BraIA64.cpp
+  lzma_LzFind.cpp
+  lzma_LzFindMt.cpp
+  lzma_LzmaDec.cpp
+lzma_LzmaDec.cpp(271): warning C4457: declaration of 'limit' hides function parameter
+  lzma_LzmaDec.cpp(139): note: see declaration of 'limit'
+  lzma_LzmaEnc.cpp
+lzma_LzmaEnc.cpp(1112): warning C4456: declaration of 'i' hides previous local declaration
+  lzma_LzmaEnc.cpp(951): note: see declaration of 'i'
+lzma_LzmaEnc.cpp(1146): warning C4456: declaration of 'numPairs' hides previous local declaration
+  lzma_LzmaEnc.cpp(951): note: see declaration of 'numPairs'
+lzma_LzmaEnc.cpp(1146): warning C4456: declaration of 'posState' hides previous local declaration
+  lzma_LzmaEnc.cpp(951): note: see declaration of 'posState'
+lzma_LzmaEnc.cpp(1147): warning C4456: declaration of 'matchPrice' hides previous local declaration
+  lzma_LzmaEnc.cpp(952): note: see declaration of 'matchPrice'
+lzma_LzmaEnc.cpp(1147): warning C4456: declaration of 'repMatchPrice' hides previous local declaration
+  lzma_LzmaEnc.cpp(952): note: see declaration of 'repMatchPrice'
+lzma_LzmaEnc.cpp(1149): warning C4456: declaration of 'curByte' hides previous local declaration
+  lzma_LzmaEnc.cpp(956): note: see declaration of 'curByte'
+lzma_LzmaEnc.cpp(1149): warning C4456: declaration of 'matchByte' hides previous local declaration
+  lzma_LzmaEnc.cpp(956): note: see declaration of 'matchByte'
+lzma_LzmaEnc.cpp(1150): warning C4456: declaration of 'data' hides previous local declaration
+  lzma_LzmaEnc.cpp(955): note: see declaration of 'data'
+lzma_LzmaEnc.cpp(1213): warning C4456: declaration of 'i' hides previous local declaration
+  lzma_LzmaEnc.cpp(951): note: see declaration of 'i'
+lzma_LzmaEnc.cpp(1222): warning C4456: declaration of 'i' hides previous local declaration
+  lzma_LzmaEnc.cpp(951): note: see declaration of 'i'
+lzma_LzmaEnc.cpp(1419): warning C4456: declaration of 'normalMatchPrice' hides previous local declaration
+  lzma_LzmaEnc.cpp(952): note: see declaration of 'normalMatchPrice'
+lzma_LzmaEnc.cpp(1429): warning C4456: declaration of 'i' hides previous local declaration
+  lzma_LzmaEnc.cpp(951): note: see declaration of 'i'
+lzma_LzmaEnc.cpp(1477): warning C4456: declaration of 'curAndLenPrice' hides previous local declaration
+  lzma_LzmaEnc.cpp(1432): note: see declaration of 'curAndLenPrice'
+lzma_LzmaEnc.cpp(1478): warning C4456: declaration of 'opt' hides previous local declaration
+  lzma_LzmaEnc.cpp(1434): note: see declaration of 'opt'
+lzma_LzmaEnc.cpp(1500): warning C4456: declaration of 'i' hides previous local declaration
+  lzma_LzmaEnc.cpp(951): note: see declaration of 'i'
+lzma_LzmaEnc.cpp(1686): warning C4456: declaration of 'i' hides previous local declaration
+  lzma_LzmaEnc.cpp(1665): note: see declaration of 'i'
+  lzma_LzmaLib.cpp
+  lzma_Threads.cpp
+  Generating Code...
+  crn_jpgd.cpp
+c:\users\ian\source\repos\slipwork\3rdparty\crunch\crnlib\crn_core.h(22): warning C4005: '_HAS_EXCEPTIONS': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\vcruntime.h(86): note: see previous definition of '_HAS_EXCEPTIONS'
+crn_jpgd.cpp(2782): warning C4458: declaration of 'm_block_y_mcu' hides class member
+  c:\users\ian\source\repos\slipwork\3rdparty\crunch\crnlib\crn_jpgd.h(224): note: see declaration of 'jpgd::jpeg_decoder::m_block_y_mcu'
+  crn_jpge.cpp
+c:\users\ian\source\repos\slipwork\3rdparty\crunch\crnlib\crn_core.h(22): warning C4005: '_HAS_EXCEPTIONS': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\vcruntime.h(86): note: see previous definition of '_HAS_EXCEPTIONS'
+  Generating Code...
+  crn_stb_image.cpp
+c:\users\ian\source\repos\slipwork\3rdparty\crunch\crnlib\crn_core.h(22): warning C4005: '_HAS_EXCEPTIONS': macro redefinition
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\vcruntime.h(86): note: see previous definition of '_HAS_EXCEPTIONS'
+crn_stb_image.cpp(3779): warning C4838: conversion from 'int' to 'crnlib::stbi_uc' requires a narrowing conversion
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1369,5): warning MSB8012: TargetPath(C:\Users\Ian\Source\Repos\Slipwork\3rdParty\crunch\lib\VC9\Debug\Win32\crnlib.lib) does not match the Library's OutputFile property value (C:\Users\Ian\Source\Repos\Slipwork\3rdParty\crunch\lib\VC9\Debug\Win32\crnlibD_VC9.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1371,5): warning MSB8012: TargetName(crnlib) does not match the Library's OutputFile property value (crnlibD_VC9). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+crn_hash_map.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+  crnlib.2008.vcxproj -> C:\Users\Ian\Source\Repos\Slipwork\3rdParty\crunch\lib\VC9\Debug\Win32\crnlib.lib
